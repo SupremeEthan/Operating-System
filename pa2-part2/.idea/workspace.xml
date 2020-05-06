@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa9c5aa7-d44a-41f7-9c20-aec42412338f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1T1NUd3AB4HdAizcmxKh8zbaQRU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PrioritySchedulerTest">
+    <configuration name="BehaviorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs131.pa2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs131.pa2" />
+      <option name="MAIN_CLASS_NAME" value="cs131.pa2.BehaviorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrioritySchedulerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs131.pa2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs131.pa2" />
+      <option name="MAIN_CLASS_NAME" value="cs131.pa2.PrioritySchedulerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrioritySchedulerTest.PreemptivePriority" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs131.pa2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs131.pa2" />
+      <option name="MAIN_CLASS_NAME" value="cs131.pa2.PrioritySchedulerTest" />
+      <option name="METHOD_NAME" value="PreemptivePriority" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs131.pa2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs131.pa2" />
+      <option name="MAIN_CLASS_NAME" value="cs131.pa2.SimulationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cs131.pa2 in pa2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pa2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs131.pa2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs131.pa2" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/pa2/doc/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrioritySchedulerTest" />
+        <item itemvalue="JUnit.cs131.pa2 in pa2" />
+        <item itemvalue="JUnit.SimulationTest" />
+        <item itemvalue="JUnit.BehaviorTest" />
+        <item itemvalue="JUnit.PrioritySchedulerTest.PreemptivePriority" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa9c5aa7-d44a-41f7-9c20-aec42412338f" name="Default Changelist" comment="" />
+      <created>1572623658784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572623658784</updated>
+      <workItem from="1572623663853" duration="4535000" />
+      <workItem from="1572634931751" duration="2675000" />
+      <workItem from="1572670602524" duration="255000" />
+      <workItem from="1572990613181" duration="92711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
